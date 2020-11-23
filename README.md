@@ -25,4 +25,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ### LOOK
-https://github.com/xiaoguihenhuai/dudu/blob/master/myapp-1.png
+![](myapp-1.png)
