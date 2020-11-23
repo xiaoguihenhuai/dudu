@@ -1,4 +1,5 @@
 # myapp
+![](myapp.gif)
 
 ## Project setup
 ```
