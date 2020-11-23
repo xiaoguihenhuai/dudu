@@ -11,7 +11,7 @@ export default{
         component:() =>  import('@/components/Myvideo'),
       },
       {
-        path:'/mypicture',
+        path:'/mine',
         redirect:'/mine/mypicture'
       }
     ]

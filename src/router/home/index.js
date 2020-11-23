@@ -16,11 +16,6 @@ export default{
       },{
         path:'comingSoon',
         component:() =>import('@/components/Comingsoon')
-      },{
-        path:'detail/:id',
-        components:{
-         detail :() =>import('@/views/Home/detail')
-        }
       },
       {
         path:'/home',

@@ -8,8 +8,8 @@
 					<span>日本</span><i class="iconfont icon-lower-triangle"></i>
 				</router-link>
 				<div class="hot_swtich">
-					<router-link to="/home/nowPlaying"  tag="div" class="hot_item">正在热映</router-link>
-					<router-link to="/home/comingSoon" tag="div" class="hot_item">生活</router-link>
+					<router-link to="/home/nowPlaying"  tag="div" class="hot_item">Nowplaying</router-link>
+					<router-link to="/home/comingSoon" tag="div" class="hot_item">Booking</router-link>
 				</div>
 				<router-link to="/home/search" tag="div" class="search_entry">
 					<i class="iconfont icon-search"></i>
